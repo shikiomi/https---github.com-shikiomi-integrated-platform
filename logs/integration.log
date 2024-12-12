@@ -1,0 +1,12 @@
+2024-12-12T08:50:46.529Z info: New customer added: John Doe (johndsddoe@example.com)
+2024-12-12T08:53:01.672Z info: Customer deleted: ID 1
+2024-12-12T08:53:19.885Z info: Customer deleted: ID 6
+2024-12-12T08:53:26.378Z info: Customer deleted: ID 8
+2024-12-12T08:53:54.234Z info: New customer added: John Doe (john.doe@example.com)
+2024-12-12T09:03:00.265Z info: All customers deleted.
+2024-12-12T09:03:28.812Z info: New customer added: test1 (test1e@example.com)
+2024-12-12T09:05:04.400Z info: All customers deleted.
+2024-12-12T09:05:08.515Z info: New customer added: test1 (test1e@example.com)
+2024-12-12T09:06:08.036Z info: All customers deleted.
+2024-12-12T09:06:11.128Z info: New customer added: test1 (test1e@example.com)
+2024-12-12T09:06:23.116Z info: New customer added: test2 (test2e@example.com)
